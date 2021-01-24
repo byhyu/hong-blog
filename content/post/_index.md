@@ -1,14 +1,14 @@
 ---
 title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2021-01-24T05:53:21.288Z
+draft: false
+featured: true
+image:
+  filename: https://unsplash.com/photos/OGZtQF8iC0g
+  preview_only: true
 ---
+okay, the is a test post.
